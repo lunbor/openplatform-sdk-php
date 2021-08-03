@@ -1,0 +1,16 @@
+{
+    "name": "lunbor/openplatform",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Lunbor\\Openplatform\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lunbor",
+            "email": "zhouheng.25520.sc@163.com"
+        }
+    ],
+    "require": {}
+}
