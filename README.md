@@ -3,7 +3,7 @@
 
 1.使用composer（推荐）
 --------------------
-composer config secure-http false && composer require golden-corp/openplatform-sdk
+composer config secure-http false && composer require lunbor/openplatform
 ```php
 use Gd\Sdk;
 
